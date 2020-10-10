@@ -6,20 +6,20 @@ body {
 header {
     text-align: center;
     font-family: "Oswald";
-    font-size: 1.8vw;
+    font-size: 25px;
     margin: 30px;
     text-decoration: underline;
 }
 
 #positionName {
     text-align: center;
-    font-size: 2vw;
+    font-size: 35px;
     margin-bottom: 30px;
     margin-top: 0px;
 }
 
 #image {
-    max-height: 342px;
+    max-height: 16vw;
     width: auto;
 
     display: block;
@@ -38,7 +38,7 @@ header {
     border-radius: 12px;
     
     font-family: "Oswald";
-    font-size: 2vw;
-    padding: .2vw 1vw;
+    font-size: 30px;
+    padding: 4px 20px;
 
 }
