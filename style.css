@@ -1,0 +1,33 @@
+body {
+    font-family: 'Oswald';
+}
+
+#image {
+    max-height: 342px;
+    width: auto;
+
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 35px;
+
+}
+
+#generateButton {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    
+    font-family: "Oswald";
+
+}
+
+header {
+    text-align: center;
+    font-family: "Oswald";
+}
+
+#positionName {
+    text-align: center;
+
+}
