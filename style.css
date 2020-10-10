@@ -18,15 +18,19 @@ header {
     margin-top: 0px;
 }
 
+.imageContainer {
+    height: 32vh;
+    margin-bottom: 30px;
+    margin-top: 30px;
+}
+
 #image {
-    max-height: 16vw;
+    max-height: 32vh;
     width: auto;
 
     display: block;
     margin-left: auto;
     margin-right: auto;
-    margin-bottom: 30px;
-    margin-top: 0px;
 
 }
 

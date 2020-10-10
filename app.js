@@ -62,7 +62,7 @@ var images = [
     "positions/reverseCowgirl.png",
     "positions/rider.png",
     "positions/rightAngle.png",
-    "positions/rock'n'Roller.png",
+    "positions/rocknRoller.png",
     "positions/rockingHorse.png",
     "positions/rowingBoat.png",
     "positions/seatedBall.png",
