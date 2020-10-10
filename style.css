@@ -8,11 +8,12 @@ header {
     font-family: "Oswald";
     font-size: 1.8vw;
     margin: 30px;
+    text-decoration: underline;
 }
 
 #positionName {
     text-align: center;
-    font-size: 30px;
+    font-size: 2vw;
     margin-bottom: 30px;
     margin-top: 0px;
 }
