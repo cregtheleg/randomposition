@@ -6,14 +6,14 @@ body {
 header {
     text-align: center;
     font-family: "Oswald";
-    font-size: 25px;
+    font-size: 1.6vw;
     margin: 30px;
     text-decoration: underline;
 }
 
 #positionName {
     text-align: center;
-    font-size: 35px;
+    font-size: 2.2vw;
     margin-bottom: 30px;
     margin-top: 0px;
 }
@@ -38,11 +38,12 @@ header {
     display: block;
     margin-left: auto;
     margin-right: auto;
+    margin-top: 30px;
     background-color: #e3e0e8ff;
     border-radius: 12px;
     
     font-family: "Oswald";
-    font-size: 30px;
-    padding: 4px 20px;
+    font-size: 1.8vw;
+    padding: 10px 15px;
 
 }
